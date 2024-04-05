@@ -1,1 +1,2 @@
 # Dependencies
+This projects shows how you can use dependency injection and a variation of the Onion Architecture to allow code in a regular .NET Assembly to use platform specific code. Please be carefull. Only do this if you have a good reason for this. A Maui Assembly will do the job for you as well if you have a ligther app.
